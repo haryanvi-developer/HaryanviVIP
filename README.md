@@ -1,4 +1,4 @@
-        <div id="readme" class="Box-body readme blob js-code-block-container js-search-container p-5 p-xl-6 gist-border-0">
+       
     <article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png"><img src="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png" height="60" style="max-width: 100%;"></a><br>
 A cloud based remote android managment suite, powered by NodeJS
